@@ -1,4 +1,4 @@
-# Homework 2 (Programming)
+# Homework 1 (Programming)
 
 Please remember that to submit the assignment you will need to go to the Education drop down menu and select  assignment complete. Once you have marked the assignment as complete you will not be able to edit it again. The assignment will close 48 hours after the deadline, since you are only allowed to use up to 48 of your late hours on any one assignment.  
 
